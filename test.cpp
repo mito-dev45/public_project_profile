@@ -4,7 +4,6 @@ int main()
 {
     int x;
     cout << "Hello World\n";
-    cout << "Hello World\n";
-    cout << "You question. . .";
+    cout << "choice menu 1,2,3";
     cin >> x;
 }
